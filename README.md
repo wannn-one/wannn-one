@@ -1,4 +1,8 @@
 ### 👋 Hi, I’m Ikhwanul Abiyu Dhiyya'ul Haq!
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=wannn-one&color=blue&style=flat-square" align="left">
+</div>
+<br>
 
 <!--- 
 wannn-one/wannn-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
