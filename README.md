@@ -9,7 +9,7 @@ wannn-one/wannn-one** is a ✨ _special_ ✨ repository because its `README.md` 
 --->
 
 - 🔭 I’m currently studying at Computer Engineering of ITS University
-- 🌱 Currently learning C++, SQL, and JavaScript
-- 👯 Interested in App & Web Development
+- 🌱 Currently learning OpenCV, C++ SFML, and Python
+- 👯 Interested in Robotics or IoT
 - 📫 Reach me at ikhwanulabiyu@gmail.com
 - 🧑🏻 My MBTI is INFJ
