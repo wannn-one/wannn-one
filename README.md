@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Computer Engineering at Sepuluh Nopember Institute of Technology.<br>👯 I’m looking to collaborate on IoT Use Case Projects.<br>🤝 I’m looking for help with Web Development and Networking strategies.<br>🌱 I’m currently learning IT Infrastructure and DevOps.<br>💬 Ask me about Computer Vision and Backend Development.
+🔭 Recent Graduate og Computer Engineering Bachelor at Sepuluh Nopember Institute of Technology.<br>👯 I’m looking to collaborate on IoT Use Case Projects.<br>🤝 I’m looking for help with Web Development and Networking strategies.<br>🌱 I’m currently learning IT Infrastructure and DevOps.<br>💬 Ask me about Computer Vision and Backend Development.
 
 ## 🌐 Socials:
 
